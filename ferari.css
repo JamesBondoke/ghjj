@@ -1,0 +1,120 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+nav {
+  width: 100px;
+  margin: 20px;
+}
+ul {
+  display: flex;
+}
+li {
+  list-style: none;
+  padding: 12px;
+}
+#a-1 {
+  text-decoration: none;
+  color: whitesmoke;
+}
+.parent1 {
+  width: 100%;
+  height: 107vh;
+  margin-top: -130px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(https://cdn.ferrari.com/cms/network/media/img/resize/63eb3432da808700221dcca2-ferrari-sf-23_intro_desktop-new?width=1920&height=1600);
+}
+li img {
+  width: 50px;
+  height: 50px;
+  margin-left: 180px;
+}
+.parent{
+  margin-bottom: 50px;
+}
+.child {
+  color: white;
+  margin-top: -200px;
+  text-align: center;
+}
+#btn1{
+  text-decoration: none;
+  color: whitesmoke;
+  padding: 5px 10px;
+  transition: .5s ease;
+}
+#btn1:hover{
+  color: #222;
+}
+--------------------------------------------------------------
+.father{
+ height: 80vh;
+ width: 100%;  
+}
+.hh{
+font-size: 25px;
+}
+#pppp{
+font-size: 15px;
+}
+#pp{
+  font-size: 22px;
+  font-weight: 750;
+}
+-----------------------------------------------------------------
+.footer-images {    
+    width: 100%;
+    height: 250vh;
+    place-items: center;
+}
+.mini-footer-images {
+    width: 100%;
+    height: 80vh;
+    place-items: center;
+    display: flex;
+}
+.micro-footer-images {
+    width: 50%;
+    height: 100%;
+    place-items: center;
+}
+#sad {
+    background-image: url(https://cdn.ferrari.com/cms/network/media/img/resize/63ea0757da808700221dcbd0-ferrari-style-spring-summer-2023_v7?width=960&height=650);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#bad {
+    background-image: url(    https://cdn.ferrari.com/cms/network/media/img/resize/63beea5e1a3b0c00a6458223-ferrari_christmas_2023_magazine_gtw_desk?width=960&height=650    );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#dard {
+    background-image: url(https://cdn.ferrari.com/cms/network/media/img/resize/63e4c83aa82465002128b480-ferrari-812-superfast-approved-2023-desktop?width=960&height=650);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#dars {
+    background-image: url(https://cdn.ferrari.com/cms/network/media/img/resize/63e4b9d2bd3b420022a38038-ferrari-montblanc-stilema-limited-edition-599-gtw-desk?width=960&height=650);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ewq {
+    background-image: url(https://cdn.ferrari.com/cms/network/media/img/resize/63ceb2cb0330ec0130edb09f-ferrari-competizioni-296-gt3-box-gate-desk?width=960&height=650);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#qwe {
+    background-image: url(https://cdn.ferrari.com/cms/network/media/img/resize/63638e831b573e645cbb592b-ferrari-past-mode-f50-gate-box-2022-nov-desk-def?width=960&height=650);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+-----------------------------------------------------------------
+
